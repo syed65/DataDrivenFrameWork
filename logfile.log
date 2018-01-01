@@ -1,0 +1,44 @@
+2017-07-08 23:01:10,574 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:10,578 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:10,578 INFO  [Log] ++++++++++TC001++++++++ 
+2017-07-08 23:01:10,579 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:10,579 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:14,775 INFO  [Log] Browser name found 
+2017-07-08 23:01:29,160 INFO  [Log] Website openend 
+2017-07-08 23:01:29,426 INFO  [Log] hovered over the webelement --->membershipMenu 
+2017-07-08 23:01:37,610 INFO  [Log] hovered and clicked over the webelement --->joinMembershipLink 
+2017-07-08 23:01:37,796 INFO  [Log] Successfully fetected the value --->memberprice 
+2017-07-08 23:01:37,954 INFO  [Log] Successfully clicked on webelement --->joinNowbutton 
+2017-07-08 23:01:44,238 INFO  [Log] Successfully fetected the value --->cartPrice 
+2017-07-08 23:01:44,239 INFO  [Log] ++++++++++++ END ++++++++++++++++ 
+2017-07-08 23:01:44,239 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:44,239 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:44,240 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:44,240 INFO  [Log] ++++++++++TC002++++++++ 
+2017-07-08 23:01:44,240 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:44,240 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-08 23:01:44,445 INFO  [Log] Successfully clicked on webelement --->cartButton 
+2017-07-08 23:01:50,131 INFO  [Log] Successfully clicked on webelement --->createAnaccount 
+2017-07-08 23:01:54,762 INFO  [Log] Entered text successfully in --->userName 
+2017-07-08 23:01:55,329 INFO  [Log] Entered text successfully in --->email 
+2017-07-08 23:01:56,240 INFO  [Log] Entered text successfully in --->password 
+2017-07-08 23:01:56,716 INFO  [Log] Entered text successfully in --->confirmPassword 
+2017-07-08 23:01:57,185 INFO  [Log] Entered text successfully in --->firstName 
+2017-07-08 23:01:57,577 INFO  [Log] Entered text successfully in --->lastName 
+2017-07-08 23:01:57,854 INFO  [Log] Entered text successfully in --->company 
+2017-07-08 23:01:58,232 INFO  [Log] Entered text successfully in --->street 
+2017-07-08 23:01:58,903 INFO  [Log] Successfully selected value from dropdown --->country 
+2017-07-08 23:01:58,947 INFO  [Log] Entered text successfully in --->city 
+2017-07-08 23:01:59,463 INFO  [Log] Successfully selected value from dropdown --->state 
+2017-07-08 23:01:59,518 INFO  [Log] Entered text successfully in --->zipCode 
+2017-07-08 23:02:01,340 INFO  [Log] ++++++++++++ END ++++++++++++++++ 
+2017-07-08 23:02:01,340 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-09 00:09:50,030 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-09 00:09:50,031 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-09 00:09:50,031 INFO  [Log] ++++++++++TC001++++++++ 
+2017-07-09 00:09:50,031 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-09 00:09:50,031 INFO  [Log] +++++++++++++++++++++++++++++++++ 
+2017-07-09 00:09:54,321 INFO  [Log] Browser name found 
+2017-07-09 00:10:17,152 INFO  [Log] Website openend 
+2017-07-09 00:10:17,353 INFO  [Log] hovered over the webelement --->membershipMenu 
+2017-07-09 00:10:19,530 INFO  [Log] hovered and clicked over the webelement --->joinMembershipLink 
